@@ -5,9 +5,11 @@ Ilias Elmzouri
 Master Information Sciences VU University, Amsterdam Supervisor: Tobias Kuhn
 
 ABSTRACT
+
 Scientific studies are often not reproducible and trustworthy due to false or exaggerated research findings. This current issue creates a bias in which successful studies are often only published through the use of dishonest scientific practices. To approach this issue, a research project has been set up to investigate how the reproducibility and trustworthiness of scientific studies can be improved with the use of the blockchain technology. The blockchain technology has shown adequate results in terms of progressing and logging transactions for the Bitcoin protocol and will be examined within this project for the purpose of logging and tracking preannounced studies.
 
 1. INTRODUCTION
+
 This is the thesis design for the master project ‘Using the Blockchain for Reproducible and Trustworthy Science’. First will be explained what the problem statement and context is and how the project is related to other work. Secondly, the research question and the subquestions will be defined, followed by a research methodology that will be used during the research phase. The last section introduces a planning, i.e. a roadmap, that is developed for the project.
 
 2. PROBLEM STATEMENT & CONTEXT
